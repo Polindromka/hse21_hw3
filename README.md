@@ -15,5 +15,7 @@ https://colab.research.google.com/drive/1muDYdb5DWCInB-FlbdEWWF7KTuxE7oYJ?usp=sh
 
 # ALL_counts.csv
 ```
-
+https://github.com/Polindromka/hse21_hw3/blob/main/ALL_counts.csv
 ```
+# HEATMAP
+![Image](images/HEATMAP.png)
