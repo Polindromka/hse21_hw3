@@ -1,4 +1,5 @@
 # hse21_hw3
+
 Ссылка на колаб:
 https://colab.research.google.com/drive/1muDYdb5DWCInB-FlbdEWWF7KTuxE7oYJ?usp=sharing \
 Второй колаб:
@@ -15,6 +16,15 @@ https://colab.research.google.com/drive/1ZeNoId7s22iw-mKZdf1qUhQhwAwDh5QN#scroll
 
 # ALL_counts
 https://github.com/Polindromka/hse21_hw3/blob/main/data/ALL_counts.csv
+# TABLE
+ID | Тип образца | Общее кол-во исходных чтений | Кол-во и процент чтений, которые были успешно откартированы на геном | Кол-во и процент уникально откартированных чтений | Общее кол-во чтений, которые попали на гены
+--- | --- | --- | --- |--- |--- 
+SRR3414629 | reprogramming | 21106089 | 290 | 286 | 16049609
+SRR3414630 | reprogramming | 15244711 | 290 | 286 | 11465324
+SRR3414631 | reprogramming | 24244069 | 290 | 286 | 18408851
+SRR3414635 | control | 20956475 | 290 | 286 | 16275997
+SRR3414636 | control | 20307147 | 290 | 286 | 15757580
+SRR3414637 | control | 20385570 | 290 | 286 | 15736978
 # HEATMAP
 ![Image](images/HEATMAP.png)
 # Differentially_expressed_genes
