@@ -1,6 +1,8 @@
 # hse21_hw3
 Ссылка на колаб:
 https://colab.research.google.com/drive/1muDYdb5DWCInB-FlbdEWWF7KTuxE7oYJ?usp=sharing
+Второй колаб:
+https://colab.research.google.com/drive/1ZeNoId7s22iw-mKZdf1qUhQhwAwDh5QN#scrollTo=OfZd_zgTesI8
 # Выравнивание RNA-seq чтений на геном мыши
 ![Image](images/general_statistics.png)
 ![Image](images/fastqc_sequence_counts_plot.png)
@@ -19,3 +21,5 @@ https://github.com/Polindromka/hse21_hw3/blob/main/data/ALL_counts.csv
 https://github.com/Polindromka/hse21_hw3/blob/main/data/differentially_expressed_genes.csv
 # MA
 ![Image](images/MA.png)
+# PHEATMAP
+![Image](images/PHEATMAP.png)
