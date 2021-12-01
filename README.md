@@ -1,6 +1,6 @@
 # hse21_hw3
 Ссылка на колаб:
-https://colab.research.google.com/drive/1muDYdb5DWCInB-FlbdEWWF7KTuxE7oYJ?usp=sharing
+https://colab.research.google.com/drive/1muDYdb5DWCInB-FlbdEWWF7KTuxE7oYJ?usp=sharing \
 Второй колаб:
 https://colab.research.google.com/drive/1ZeNoId7s22iw-mKZdf1qUhQhwAwDh5QN#scrollTo=OfZd_zgTesI8
 # Выравнивание RNA-seq чтений на геном мыши
