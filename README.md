@@ -17,3 +17,5 @@ https://github.com/Polindromka/hse21_hw3/blob/main/data/ALL_counts.csv
 ![Image](images/HEATMAP.png)
 # Differentially_expressed_genes
 https://github.com/Polindromka/hse21_hw3/blob/main/data/differentially_expressed_genes.csv
+# MA
+![Image](images/MA.png)
