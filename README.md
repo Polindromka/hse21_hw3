@@ -23,3 +23,7 @@ https://github.com/Polindromka/hse21_hw3/blob/main/data/differentially_expressed
 ![Image](images/MA.png)
 # PHEATMAP
 ![Image](images/PHEATMAP.png)
+# Normalized counts
+![Image](images/14021.png)
+![Image](images/15818.png)
+![Image](images/35945.png)
